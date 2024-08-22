@@ -1,0 +1,15 @@
+{
+    "dinnextltarabiclight": {
+        "bold": "\/Users\/Froiden\/Htdocs\/pms\/storage\/fonts\/\/dinnextltarabiclight-bold_5bdc01ee649f0e028daa7ff8113df2d0"
+    },
+    "dejavusans": {
+        "normal": "\/Users\/Froiden\/Htdocs\/pms\/storage\/fonts\/\/dejavusans-normal_613f42d56db5dc03561b8249f0b7bb8e"
+    },
+    "fontawesome": {
+        "normal": "fontawesome_normal_0d054c01a20249458ebc59d71623830f"
+    },
+    "thsarabunnew": {
+        "bold": "\/var\/www\/html\/HEPL_ProjectManagement\/storage\/fonts\/thsarabunnew_bold_ff13f6e837ff53e8c0f19443ebd9d042",
+        "bold_italic": "thsarabunnew_bold_italic_2d345f5c796063587ca84c55d275ac2e"
+    }
+}

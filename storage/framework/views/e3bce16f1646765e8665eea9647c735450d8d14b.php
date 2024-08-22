@@ -1,0 +1,1 @@
+<?php echo e($text); ?><?php /**PATH /var/www/HEPL_PM/resources/views/vendor/mail/text/text.blade.php ENDPATH**/ ?>
